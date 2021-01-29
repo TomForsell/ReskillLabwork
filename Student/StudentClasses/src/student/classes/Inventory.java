@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Inventory {
 
 //Cant believe I spent all this time on this little code
+    // ANDY There's actually a lot to understand here, so don't beat yourself up :)
     private static ArrayList<Product> products  = new ArrayList<Product>();
 
     public static void addProduct(Product aProduct){
