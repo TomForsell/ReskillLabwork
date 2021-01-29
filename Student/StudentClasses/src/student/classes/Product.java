@@ -9,6 +9,7 @@ public class Product {
    //private int stockReorderThreshold;1
 
     //Constructor
+    // ANDY Can use constructor chaining here.
     public Product(String s, int p){
         //Construcor for one type of product that can never be perished
         productDescription= s;
